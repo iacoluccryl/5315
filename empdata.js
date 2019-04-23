@@ -1,124 +1,109 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
+      "employee_id": "James Bond",
+      "department": "Sales",
       "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "age": "45",
+      "potential": "5"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "employee_id": "Brielle Williamson",
+      "department": "Marketing",
+      "salary": "$72,780",
+      "age": "34",
+      "potential": "3"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "employee_id": "Ashton Cox",
+      "department": "Marketing",
+      "salary": "$120,672",
+      "age": "34",
+      "potential": "4"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "employee_id": "Airi Satou",
+      "department": "Supply Chain",
+      "salary": "$80,132",
+      "age": "34",
+      "potential": "3"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "employee_id": "Ceaser Vance",
+      "department": "Supply Chain",
+      "salary": "$62,123",
+      "age": "50",
+      "potential": "2"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "employee_id": "Shad Decket",
+      "department": "Marketing",
+      "salary": "$72,543",
+      "age": "24",
+      "potential": "5"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "employee_id": "Cedric Kelly",
+      "department": "Sales",
+      "salary": "$88,567",
+      "age": "29",
+      "potential": "3"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "employee_id": "Haley Kennedy",
+      "department": "Customer Service",
+      "salary": "$131,658",
+      "age": "34",
+      "potential": "5"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "employee_id": "Colleen Hurst",
+      "department": "Customer Service",
+      "salary": "$53,134",
+      "age": "26",
+      "potential": "3"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "employee_id": "Dai Rios",
+      "department": "Finance",
+      "salary": "$101,432",
+      "age": "32",
+      "potential": "4"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "employee_id": "Herrod Chandler",
+      "department": "Operations",
+      "salary": "$88,937",
+      "age": "34",
+      "potential": "3"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "employee_id": "Rhona Davidson",
+      "department": "Operations",
+      "salary": "$71,385",
+      "age": "24",
+      "potential": "4"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "employee_id": "Sonya Frost",
+      "department": "Operations",
+      "salary": "$270,321",
+      "age": "48",
+      "potential": "5"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
+      "employee_id": "Jena Gaines",
+      "department": "Accounting",
+      "salary": "$321,476",
+      "age": "52",
+      "potential": "5"
     },
     {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "employee_id": "Quinn Flynn",
+      "department": "Supply Chain",
+      "salary": "$69,356",
+      "age": "45",
+      "potential": "3"
     }
   ]
 }
